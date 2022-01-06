@@ -1,4 +1,4 @@
 - 👋 Oi, eu sou o @nevesm
 - 👀 Sou Engenheiro de confiabilidade na PagSeguro
-- 🌱 Atualmente cursando análise e desenvolvimento de sistemas, e estudando contínuamente o desenvolvimento de soluções nativas na nuvem (aws, gcp ou azure)
+- 🌱 Atualmente almejando certificações da AWS e Terraform e estudando contínuamente o desenvolvimento de soluções nativas na nuvem (aws, gcp ou azure)
 - 📫 marcus-neves@outlook.com
