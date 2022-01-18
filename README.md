@@ -1,4 +1,5 @@
 - 👋 Oi, eu sou o @nevesm
-- 👀 Sou Engenheiro de confiabilidade na PagSeguro
-- 🌱 Atualmente almejando certificações da AWS e Terraform e estudando contínuamente o desenvolvimento de soluções nativas na nuvem (aws, gcp ou azure)
-- 📫 marcus-neves@outlook.com
+- 👀 Sou Engenheiro de confiabilidade no PagSeguro PagBank, se quiser me conhecer melhor, entra no meu [Linkedin](https://www.linkedin.com/in/mnevesti/).
+- 🌱 Gosto de resolver problemas em apps véias e construir apps novas bem estruturadas... Sou pago para aprovar PR, editar .tfvars, construir Jenkinsfile, migrar cosias, acessar o newrelic, acessar o splunk, acessar o console da aws, editar milhares de .tf, editar centenas de .yml, colocar a mão em alguns códigos e ler a mente dos desenvolvedores nas horas vagas. 
+- 🔎 Estou aprendendo Go, estudando para tirar a certificação ["Terraform Associate"](https://www.hashicorp.com/certification/terraform-associate), tentando construir um backend para criar partidas de CSGO à partir de uma API.
+- 📫 Contato: marcus-neves@outlook.com
