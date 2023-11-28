@@ -1,13 +1,14 @@
 <h1 align="center">Hi 👋, I'm Marcus Neves</h1>
-<h3 align="center">A passionate senior site reliability engineer</h3>
+<h3 align="center">A passionate Senior Site Reliability Engineer from 8 to 5 and FullStack Developer from 5 to ∞</h3>
+<h4>I find problems and code to solve them, sometimes i make more problems just by coding, but that's what software engineering looks like, right? 😅</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nevesm&label=Profile%20views&color=0e75b6&style=flat-square" alt="nevesm" /> </p>
 
 - 🔭 I’m currently working at **PagBank, the 2nd the second largest digital bank in Brazil 🇧🇷**
 
-- 👯 I’m looking to collaborate on **OpenSource projects**
+- 👯 I’m looking to collaborate on **opensource projects**
 
-- 💬 Ask me about **terraform, aws, javascript, nextjs and modified cars**
+- 💬 Ask me about **terraform, aws, javascript, nextjs and modified cars🏎️**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
