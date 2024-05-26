@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nevesm&label=Profile%20views&color=0e75b6&style=flat-square" alt="nevesm" /> </p>
 
-- 🔭 I’m currently working at **PagBank, the second largest digital bank in Brazil 🇧🇷**
+- 🔭 I’m currently working at **openmatch.com.br, my own platform for CS2 players. 🇧🇷**
 
 - 👯 I’m looking to collaborate on **opensource projects**
 
