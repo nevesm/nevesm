@@ -19,7 +19,7 @@ I also write backend and full-stack code. Not as a hobby, but because infrastruc
 ### Currently
 
 - SRE and cloud infrastructure for a cloud-native platform in the energy sector (US, remote, end client under NDA)
-- Building **[platform-kit](#)**, the Terraform and Helm stack I deploy on every observability migration
+- Building **[Prefire](https://prefireapp.com)**: pre-match study for CS2. It reads the demo of your opponent's last match on the map you're about to play and shows where they actually hold, their go-to utility and where they get their kills. A Rust demo parser, a C++ desktop client, a Go API and a web app on Cloudflare, instrumented end to end with OpenTelemetry. In closed beta
 - Building [**headroom CLI**](https://github.com/headroom-project/headroom): Reads your Terraform plan, builds the resource graph, and tells you which resource runs out first and which one is sized far past anything it will ever serve
 - Writing about cloud cost, observability and what actually breaks in production
 
@@ -56,7 +56,7 @@ Também escrevo backend e full-stack. Não como hobby, mas porque decisão de in
 **Atualmente**
 
 - SRE e infraestrutura de cloud para uma plataforma cloud-native do setor de energia (EUA, remoto, cliente final sob NDA)
-- Construindo o **platform-kit**: Stack Terraform e Helm que subo em toda migração de observabilidade
+- Construindo o **[Prefire](https://prefireapp.com)**: estudo pré-partida para CS2. Lê a demo da última partida do seu adversário no mapa que você vai jogar e mostra onde ele realmente segura, as utilitárias preferidas e de onde ele mata. Parser de demo em Rust, cliente desktop em C++, API em Go e web app na Cloudflare, instrumentado de ponta a ponta com OpenTelemetry. Em beta fechado
 - Construindo o [**headroom CLI**](https://github.com/headroom-project/headroom): Lê o seu plan do Terraform, monta o grafo de recursos e diz qual recurso acaba primeiro e qual está dimensionado muito acima de tudo que ele algum dia vai atender
 - Escrevendo sobre custo de nuvem, observabilidade e o que realmente quebra em produção
 
